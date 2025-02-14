@@ -19,7 +19,7 @@ I’m a B.Tech in AI and Data Science graduate with a deep passion for full-stac
 - **Email**: sankarrstv@gmail.com
 - **GitHub**: https://github.com/SankarRstv
 - **LinkedIn**: https://www.linkedin.com/in/sankarrstv
-- **Website**: https://sankarrstv.github.io/SankarRstv-Portfolio/
+- **Website**: https://sankarrstv.github.io/Sankar-R-Portfolio/
 
 ---
 
